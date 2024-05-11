@@ -154,4 +154,4 @@ sns.pairplot(dt)
 ![Screenshot 2024-03-09 113415](https://github.com/gokulapriya632202/EXNO2DS/assets/119560302/ea0e6e4b-1a73-458b-8cbb-a83071374afe)
 
 # RESULT
-        << Hence, Exploratory Data Analysis on the given data set is performed.>>
+        Hence, Exploratory Data Analysis on the given data set is performed.
